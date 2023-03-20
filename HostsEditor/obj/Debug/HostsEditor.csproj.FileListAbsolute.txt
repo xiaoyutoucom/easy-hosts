@@ -1,0 +1,12 @@
+D:\freight\hosts-editor-master\hosts-editor-master\HostsEditor\obj\Debug\HostsEditor.csproj.AssemblyReference.cache
+D:\freight\hosts-editor-master\hosts-editor-master\HostsEditor\obj\Debug\HostsEditor.csproj.SuggestedBindingRedirects.cache
+D:\freight\hosts-editor-master\hosts-editor-master\HostsEditor\bin\Debug\Main.resx
+D:\freight\hosts-editor-master\hosts-editor-master\HostsEditor\bin\Debug\HostsEditor.exe.config
+D:\freight\hosts-editor-master\hosts-editor-master\HostsEditor\bin\Debug\HostsEditor.exe
+D:\freight\hosts-editor-master\hosts-editor-master\HostsEditor\bin\Debug\HostsEditor.pdb
+D:\freight\hosts-editor-master\hosts-editor-master\HostsEditor\obj\Debug\HostsEditor.Main.resources
+D:\freight\hosts-editor-master\hosts-editor-master\HostsEditor\obj\Debug\HostsEditor.Properties.Resources.resources
+D:\freight\hosts-editor-master\hosts-editor-master\HostsEditor\obj\Debug\HostsEditor.csproj.GenerateResource.cache
+D:\freight\hosts-editor-master\hosts-editor-master\HostsEditor\obj\Debug\HostsEditor.csproj.CoreCompileInputs.cache
+D:\freight\hosts-editor-master\hosts-editor-master\HostsEditor\obj\Debug\HostsEditor.exe
+D:\freight\hosts-editor-master\hosts-editor-master\HostsEditor\obj\Debug\HostsEditor.pdb
